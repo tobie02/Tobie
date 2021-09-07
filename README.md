@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tobie
 - I’m interested in Artificial Intelligence 
-- I’m currently learning Data Structures, Abstract Data Types, Computational Complexity with Java and Python
+- I’m currently learning Data Structures, Abstract Data Types and Computational Complexity with Java and Python
 - Looking for a new challenge and give my best
