@@ -2,3 +2,5 @@
 - I’m interested in Artificial Intelligence 
 - I’m currently learning Data Structures, Abstract Data Types and Computational Complexity with Java and Python
 - Looking for a new challenge and give my best
+- My LinkedIn: https://www.linkedin.com/in/tobias-garcia-466a01209/
+- email: tobiasjoagarcia@gmail.com
